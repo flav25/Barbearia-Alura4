@@ -5,3 +5,5 @@ Localizada no coração da cidade a Barbearia Alura traz para o mercado o que h�
 Nossa missão é: "Proporcionar auto-estima e qualidade de vida aos clientes".
 
 Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
+
+![banner](https://github.com/flav25/Barbearia-Alura4/assets/144039664/70eebef5-0da0-4ad5-9427-590a907868c1)
